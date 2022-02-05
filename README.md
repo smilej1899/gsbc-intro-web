@@ -8,6 +8,7 @@ Here are a few interesting websites that inspire Jonathan in his endeavour to le
 1. https://www.phonearena.com/news/Let-Steve-the-dinosaur-jump-all-over-your-apps-and-notifications-in-your-new-favorite-widget-game_id81645
 2. https://superbwebsitebuilders.com/make-a-gaming-website/
 3. https://gamepress.gg/pokemongo/
+4. https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 My goal for this semester is to learn as much as I can about computer coding, so that I may create a game where a square jumps over spikes. To complete my task, I will study css, html, and javascript.
 
