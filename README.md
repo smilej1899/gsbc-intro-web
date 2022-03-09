@@ -12,3 +12,5 @@ Here are a few interesting websites that inspire Jonathan in his endeavour to le
 My goal for this semester is to learn as much as I can about computer coding, so that I may create a game where a square jumps over spikes. To complete my task, I will study css, html, and javascript.
 Timelines are exciting to create because creat events worth looking forward to. Jonathan will study html for an hour every week. He will study
 css for an hour every week and he will study javascript for an hour every week.
+
+How are we doing today?
