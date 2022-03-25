@@ -2,16 +2,13 @@
 
 ## Official First Website of Jonathan Rubio
 
-Having completed three and a half years at Golden State Baptist College, Jonathan Rubio is about to complete his college career. Jonathan loves to sing. He will be travelling around the country from May to July as part of the Golden Avenue Quartet, singing songs about the Lord, and recruiting the next generation of Bible scholars. 
+Jonathan Rubio grew up in Southern California from the tender age of two years old. He attended a Christian school most of his life, and was homeschooled for three years...two in New Mexico and one in Washington state. He has completed three and a half years at Golden State Baptist College, and is about to complete his college career. Jonathan loves to sing, and touring the country while representing a Bible college has been a life long dream of his. This May, his dream will come true as he tours the east coast singing and representing Golden State Baptist College. Afterwards, he will be getting married on October 15th.
 
-Here are a few interesting websites that inspire Jonathan in his endeavour to learn computer coding:
-1. https://www.phonearena.com/news/Let-Steve-the-dinosaur-jump-all-over-your-apps-and-notifications-in-your-new-favorite-widget-game_id81645
-2. https://superbwebsitebuilders.com/make-a-gaming-website/
-3. https://gamepress.gg/pokemongo/
+https://trex-runner.com is the foundation for the game I would like to build. It is always fun to be able to play a game while the internet just is not working. I do like dinosaurs and would like to build a crossover between the Steve game, the Impossible Game (https://store.steampowered.com/app/251630/The_Impossible_Game/), and Geometry Dash (https://store.steampowered.com/app/322170/Geometry_Dash/). This video (https://www.youtube.com/watch?v=gnPekEXhkys) incorporates sound into the jumping square game. Inspirational videos and links will continue to grow as this semester unfolds.
 
-My goal for this semester is to learn as much as I can about computer coding, so that I may create a game where a square jumps over spikes. To complete my task, I will study css, html, and javascript.
-Timelines are exciting to create because creat events worth looking forward to. Jonathan will study html for an hour every week. He will study
-css for an hour every week and he will study javascript for an hour every week.
+My goal for this semester is to create a website in which this game is possible. I will learn how to place backdrops, create an avatar, create obstacles, create a server, add images, music, and many other elements while creating this game. My goal is to at the very least publish a game where a square jumps over spikes.
 
-How are we doing today?
-This is a really important message to mankind....
+Timeline:
+Research how to videos about coding for games. 6 hours+ 4/01
+Research Javascript code and create a platform and square 8 hours 4/15
+Research movement and frames 8 hours 4/20
