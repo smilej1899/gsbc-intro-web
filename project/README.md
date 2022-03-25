@@ -9,6 +9,6 @@ https://trex-runner.com is the foundation for the game I would like to build. It
 My goal for this semester is to create a website in which this game is possible. I will learn how to place backdrops, create an avatar, create obstacles, create a server, add images, music, and many other elements while creating this game. My goal is to at the very least publish a game where a square jumps over spikes.
 
 Timeline:
-Research how to videos about coding for games. 6 hours+ 4/01
-Research Javascript code and create a platform and square 8 hours 4/15
-Research movement and frames 8 hours 4/20
+* Research how to videos about coding for games. 6 hours+ 4/01
+* Research Javascript code and create a platform and square 8 hours 4/15
+* Research movement and frames 8 hours 4/20
