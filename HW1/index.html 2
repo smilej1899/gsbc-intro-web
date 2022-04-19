@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="uft-8">
+   <meta name = "viewport" content="width=device-width, initial-scale=1">
+   <title>About</title> 
+   <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body style="background-image: url(https://media.istockphoto.com/photos/modern-brick-wall-3d-rendering-picture-id1140265911?b=1&k=20&m=1140265911&s=170667a&w=0&h=cLoyrHySMr6agb3jd7kjL_KQZwW4c-JdgpCeFu_r81s=);">
+<div class="topnav">
+    <a class="" href="https://smilej1899.github.io/gsbc-intro-web/">Index</a>
+    <a class="active" href="">HW1</a>
+    <a class="" href="https://smilej1899.github.io/gsbc-intro-web/hw2/index.html">HW2</a>
+    <a class="" href="https://smilej1899.github.io/gsbc-intro-web/hw3/index.html">HW3</a>
+</div>
+</br>
+</br>
+</br>
+<div class="row">
+    <div class="column left">
+        <div class="circle">
+            <img src="https://github.com/smilej1899/gsbc-intro-web/blob/main/photos/688BA2E1-FD6F-42F5-88F0-F69C396DDC34.JPG?raw=true" alt="Nature">
+          </div>
+    </div>
+    <div class="column right">
+  
+<h2>About Me</h2>  
+<p> describe myself </p>
+</br>
+<h2>Design Influences</h2>
+
+    <p>I like this website <a href="https://nvbc.org/">nvbc.org</a>. 
+   and this one <a href="https://www.apple.com/">apple.com</a>.. and this one too. 
+    <a href="http://www.feedmusic.com/#/">Feedmusic.com</a> and this one three. 
+    <ul><a href="https://nvbc.org/">Nvbc.org</a></ul>
+    <ul><a href="https://www.apple.com/">Apple.com</a></ul>
+    <ul><a href="http://www.feedmusic.com/#/">Feedmusic.com</a></ul></p>
+</br>
+<h2>About My Design</h2>
+<p> 
+    I would like to pass the class (design is tbd)
+</p>	
+
+<h2> Timeline for Project</h2>
+<p>
+- Researched
+</br>
+    - study HTML
+</br>
+    - add css
+</br>
+    - Add JavaScript 
+</br>
+    - Complete the website (4/20)
+<h2>My First Program</h2>
+    <button type="button"
+    onclick="document.getElementById('demo').innerHTML = Date()">
+    Click me to display Date and Time.</button> 
+    <p id="demo"></p>
+</p>
+</div>
+</div>
+</br>
+</br>
+</br>
+</body>
+</html>
