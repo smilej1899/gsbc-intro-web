@@ -5,17 +5,17 @@ h1, h2, h3, h4, h5, h6 {
     
     h1 {
         font-size: 1.62em;
-        color: rgb(0, 238, 255);
+        color: rgb(111, 120, 124);
         text-align:center;
     }
     
     h2 {
         font-size: 1.31em;
-        color: rgb(0, 238, 255);
+        color: rgb(111, 120, 124);
     }
     p {
     font-size:medium;
-    color:rgb(0, 238, 255);
+    color:rgb(111, 120, 124);
     }
     
     code {
@@ -136,17 +136,17 @@ h1, h2, h3, h4, h5, h6 {
           border: 0;
         }
         button {  
-          background-color: rgb(0, 238, 255);  
+          background-color: rgb(111, 120, 124);  
           color: black;  
           font-size: 25px;  
           margin: auto;  
           }  
 
 label {
-  color: rgb(0, 238, 255);
+  color: rgb(111, 120, 124);
 }
 input [type="text"]{
-  color: rgb(0, 238, 255);
+  color: rgb(111, 120, 124);
 }/*Text*/
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Courier New', Courier, monospace;
@@ -154,17 +154,17 @@ h1, h2, h3, h4, h5, h6 {
     
     h1 {
         font-size: 1.62em;
-        color: rgb(0, 238, 255);
+        color: rgb(111, 120, 124);
         text-align:center;
     }
     
     h2 {
         font-size: 1.31em;
-        color: rgb(0, 238, 255);
+        color: rgb(111, 120, 124);
     }
     p {
     font-size:medium;
-    color:rgb(0, 238, 255);
+    color:rgb(111, 120, 124);
     }
     
     code {
@@ -285,17 +285,17 @@ h1, h2, h3, h4, h5, h6 {
           border: 0;
         }
         button {  
-          background-color: rgb(0, 238, 255);  
+          background-color: rgb(111, 120, 124);  
           color: black;  
           font-size: 25px;  
           margin: auto;  
           }  
 
 label {
-  color: rgb(0, 238, 255);
+  color: rgb(111, 120, 124);
 }
 input [type="text"]{
-  color: rgb(0, 238, 255);
+  color: rgb(111, 120, 124);
 }
 body {
   background-image:url(https://img.freepik.com/free-vector/abstract-blue-geometric-shapes-background_1035-17545.jpg?w=2000);
