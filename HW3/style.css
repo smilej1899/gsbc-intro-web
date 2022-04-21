@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
     code {
        font-family: 'Courier New', Courier, monospace;
      font-weight: bold;
-        color:rgb(8, 153, 238);
+        color:rgb(111, 120, 124);
     }
     input.right{
       float:right;
@@ -69,12 +69,12 @@ h1, h2, h3, h4, h5, h6 {
     /* Change the color of links on hover */
     .topnav a:hover {
     background-color: #ddd;
-    color: rgb(8, 153, 238);
+    color: rgb(111, 120, 124);
     }
     
     /* Add a color to the active/current link */
     .topnav a.active {
-    background-color: rgb(8, 153, 238);
+    background-color: rgb(111, 120, 124);
     color: white;
     }	
     a:link {
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
     }
     
     a:hover {
-    color: rgb(8, 153, 238);
+    color: rgb(111, 120, 124);
     background-color: transparent;
     text-decoration: underline;
     }
@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6 {
     code {
        font-family: 'Courier New', Courier, monospace;
      font-weight: bold;
-        color:rgb(8, 153, 238);
+        color:rgb(111, 120, 124);
     }
     input.right{
       float:right;
@@ -218,12 +218,12 @@ h1, h2, h3, h4, h5, h6 {
     /* Change the color of links on hover */
     .topnav a:hover {
     background-color: #ddd;
-    color: rgb(8, 153, 238);
+    color: rgb(111, 120, 124);
     }
     
     /* Add a color to the active/current link */
     .topnav a.active {
-    background-color: rgb(8, 153, 238);
+    background-color: rgb(111, 120, 124);
     color: white;
     }	
     a:link {
@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
     }
     
     a:hover {
-    color: rgb(8, 153, 238);
+    color: rgb(111, 120, 124);
     background-color: transparent;
     text-decoration: underline;
     }
