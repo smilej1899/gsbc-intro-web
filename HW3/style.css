@@ -297,3 +297,8 @@ label {
 input [type="text"]{
   color: rgb(0, 238, 255);
 }
+body {
+  background-image:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fwebsite-background&psig=AOvVaw3FjRbjkFOfgFVzyEWYrv6u&ust=1650611021909000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDtia_LpPcCFQAAAAAdAAAAABAD);
+  background-repeat: no-repeat;
+  background-size:cover;
+}
