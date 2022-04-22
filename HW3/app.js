@@ -1,6 +1,6 @@
-function towel() {
+function dog() {
     var answer = window.prompt("What gets wetter as it dries?")
-       if (answer.toLowerCase() == "towel" || answer.toLowerCase() == "a towel") {
+       if (answer.toLowerCase() == "dog" || answer.toLowerCase() == "a dog") {
            window.location.replace("https://smilej1899.github.io/gsbc-intro-web/HW3/room0.html");
        }
        else{
