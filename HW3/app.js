@@ -48,8 +48,8 @@ function dog() {
    }
 }
    function fHint() {
-    var answer = window.prompt("What gets wetter as it dries?")
-       if (answer.toLowerCase() == "towel" || answer.toLowerCase() == "a towel") {
+    var answer = window.prompt("What is a man's best friend?")
+       if (answer.toLowerCase() == "dog" || answer.toLowerCase() == "a dog") {
            var answer1 = window.prompt("What word is always spelled incorrectly in the dictionary?")
            if (answer1.toLowerCase() == "incorrectly" || "incorrectly "){
                     var answer2 = window.prompt("I have branches, but no fruit, trunk or leaves. What am I?")
