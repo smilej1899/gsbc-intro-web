@@ -1,5 +1,5 @@
 function dog() {
-    var answer = window.prompt("What gets wetter as it dries?")
+    var answer = window.prompt("What is a man's best friend?")
        if (answer.toLowerCase() == "dog" || answer.toLowerCase() == "a dog") {
            window.location.replace("https://smilej1899.github.io/gsbc-intro-web/HW3/room0.html");
        }
