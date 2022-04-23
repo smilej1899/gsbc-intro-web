@@ -8,13 +8,55 @@
 </head>
 
 <body>
-    <h2>Your dog needs to use his head to succeed.</br>Choose your attack wisely.</br>Or face a Disaster!</h2>
 
-    <div class="topnav">
-        <a href="https://smilej1899.github.io/gsbc-intro-web/HW3/room8.html">dashing dog</a>
-        <a href="https://smilej1899.github.io/gsbc-intro-web/HW3/room5.html">biting dog</a>
-        <a href="https://smilej1899.github.io/gsbc-intro-web/HW3/room8.html">swiping dog</a>
-    </div>
+    <div style="text-align:center">
+        <h2>Your dog needs to use his head to succeed.</h2>
+        <p>Click on the boxes below to choose an attack:</p>
+      </div>
+      
+      <!-- Three columns -->
+      <div class="row">
+        <div class="column" onclick="openTab('b1');" style="background:green;">
+          Box 1
+        </div>
+        <div class="column" onclick="openTab('b2');" style="background:blue;">
+          Box 2
+        </div>
+        <div class="column" onclick="openTab('b3');" style="background:red;">
+          Box 3
+        </div>
+      </div>
+      
+      <!-- Full-width columns: (hidden by default) -->
+      <div id="b1" class="containerTab" style="display:none;background:green">
+        <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+        <h2>Box 1</h2>
+        <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis ullamcorper nam. Ius error diceret deseruisse ad</p>
+      </div>
+      
+      <div id="b2" class="containerTab" style="display:none;background:blue">
+        <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+        <h2>Box 2</h2>
+        <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis ullamcorper nam. Ius error diceret deseruisse ad</p>
+      </div>
+      
+      <div id="b3" class="containerTab" style="display:none;background:red">
+        <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+        <h2>Box 3</h2>
+        <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis ullamcorper nam. Ius error diceret deseruisse ad</p>
+      </div>
+      <script>
+        function openTab(tabName) {
+          var i, x;
+          x = document.getElementsByClassName("containerTab");
+          for (i = 0; i < x.length; i++) {
+            x[i].style.display = "none";
+          }
+          document.getElementById(tabName).style.display = "block";
+        }
+        </script>
+      
+      
 </body>
 
 </html>
